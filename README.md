@@ -7,7 +7,7 @@
 
 ### An example of my test automation project (UI web):
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikovqa&repo=RCTests)](https://github.com/nikovqa/RCTests)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikovqa&repo=RCTests)](https://github.com/nikovqa/XOCT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikovqa&repo=XOCT)](https://github.com/nikovqa/XOCT)
 
 #### Used tools and technologies:
 <p align="center">
